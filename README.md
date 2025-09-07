@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1>¡Hola! Soy Subaru 💻</h1>
+  <h1>¡Hola 🌍! Soy Subaru 💻</h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25C8BE&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;._--AAAAApasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9932CC&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;AAAApasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG">
 </div>
 
 ---
@@ -14,7 +14,7 @@
 Estudiante de **Ingeniería Civil Informática** en la **USS** con un fuerte interés en la resolución de problemas y la optimización de algoritmos. Mi pasión por la programación me ha llevado a explorar diversos campos, desde el desarrollo de videojuegos hasta el diseño de aplicaciones web.
 
 - 🎓 Actualmente en mi tercer año de universidad.
-- 🎮 Desarrollé mi primer videojuego, una experiencia que me enseñó mucho sobre lógica de programación y la arquitectura de software.
+- 🎮 Desarrollé mi primer videojuego, una experiencia que me enseñó mucho sobre lógica de programación y la arquitectura de software. **(Aunque, sinceramente, el código es un caos. ¡Pero aprendí un montón!)**
 - 💻 Actualmente estoy profundizando mis conocimientos en el desarrollo web, explorando **Django** y **React**.
 - 🤝 Estoy abierto a colaborar en proyectos interesantes y a aprender de otros desarrolladores.
 
