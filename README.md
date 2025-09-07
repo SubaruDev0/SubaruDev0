@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25C8BE&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;._Apasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25C8BE&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;._--Apasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG">
 </div>
 
 ---
@@ -66,7 +66,7 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente.
 ---
 
 <div align="center">
-  ⭐ **Gracias por visitar mi perfil. Siempre aprendiendo y creciendo** 🚀
+  ## ⭐ Gracias por visitar mi perfil. Siempre aprendiendo y creciendo 🚀
 </div>
 
 <br>
