@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9932CC&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;Estudiante+de+Ingeniería+Civil+Informática;Estudiante+de+Ingeniería+Civil+Informática;Estudiante+de+Ingeniería+Civil+Informática" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9932CC&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;Estudiante+de+Ingeniería+Informática;Estudiante+de+Ingeniería+Informática;Estudiante+de+Ingeniería+Informática" alt="Typing SVG">
 </div>
 
 ---
