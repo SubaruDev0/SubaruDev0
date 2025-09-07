@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🌍 Soy Subaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;Apasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;AApasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías">
 </p>
 
 ---
