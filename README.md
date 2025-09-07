@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9932CC&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;Apasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG">
 </div>
 
-<div align="center">
-  <img src="https://i.ibb.co/5WWBd5H/banner-subaru.png" alt="Banner Subaru" width="100%">
-</div>
-
 ---
 
 ## 🚀 Sobre mí
