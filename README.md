@@ -1,20 +1,18 @@
-<h1 align="center"> Hello World 🌍 Soy Subaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World 🌍 Soy Subaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Estudiante+de+Ingeniería+Civil+Informática;Apasionado+por+la+programación+y+los+videojuegos;Curioso+por+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=120&lines=Estudiante+de+Ingeniería+Civil+Informática;Apasionado+por+la+programación+y+los+videojuegos;Interesado+en+algoritmos+y+optimización;Siempre+aprendiendo+nuevas+tecnologías">
 </p>
 
 ---
 
 ## ✨ Sobre mí  
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - 🎓 Estudiante de 3er año de **Ingeniería Civil Informática** en la **USS**  
-- 🎮 Creé mi primer videojuego hace un tiempo (mi código era un caos, pero aprendí muchísimo 😅)  
-- 🧩 Me gusta resolver problemas y experimentar con nuevos algoritmos  
+- 🎮 Desarrollé mi primer videojuego, lo que me permitió aprender mucho sobre programación y lógica de juegos  
+- 🧩 Me interesa resolver problemas y optimizar algoritmos  
 - 💻 Actualmente explorando **Django** y **React**  
 - 🤝 Abierto a colaborar en proyectos interesantes  
 
@@ -23,25 +21,33 @@
 ## 🛠️ Tecnologías y herramientas  
 
 ### 👨‍💻 Lenguajes de programación  
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=python&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF.svg?style=plastic&logo=godot-engine&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/java-%23007396.svg?style=plastic&logo=java&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="35"/>
+</p>
 
 ### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)  
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"/>
+</p>
 
 ### ⚙️ Backend & Bases de Datos  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)  
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+</p>
 
 ### 🔧 Herramientas  
-![Git](https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
+</p>
 
 ---
 
@@ -58,11 +64,4 @@
 
 ---
 
-## 🐍 Mi contribución en forma de serpiente  
-<p align="center">
-  <img src="https://github.com/SubaruDev0/SubaruDev0/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
-⭐ *Gracias por pasar por aquí, mi perfil sigue en construcción igual que yo 🚀*  
+⭐ *Gracias por visitar mi perfil. Siempre aprendiendo y creciendo 🚀*
