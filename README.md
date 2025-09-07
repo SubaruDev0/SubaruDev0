@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Estudiante de **Ingeniería Civil Informática** en la **USS** con un fuerte interés en la resolución de problemas y la optimización de algoritmos. Mi pasión por la programación me ha llevado a explorar diversos campos, desde el desarrollo de videojuegos hasta el diseño de aplicaciones web.
+Estudiante de **Ingeniería Civil Informática** en con un fuerte interés en la resolución de problemas y la optimización de algoritmos. Mi pasión por la programación me ha llevado a explorar diversos campos, desde el desarrollo de videojuegos hasta el diseño de aplicaciones web.
 
 - 🎓 Actualmente en mi tercer año de universidad.
 - 🎮 Desarrollé mi primer videojuego, una experiencia que me enseñó mucho sobre lógica de programación y la arquitectura de software. **(Aunque, sinceramente, el código es un caos. ¡Pero aprendí un montón!)**
