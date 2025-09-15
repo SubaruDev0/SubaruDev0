@@ -60,7 +60,6 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SubaruDev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubaruDev0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubaruDev0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="820px">
 </div>
 
 ---
